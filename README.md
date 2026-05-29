@@ -107,13 +107,13 @@ figures/           # result figures
 ## Citation
 
 ```bibtex
-@article{xu2024vaisgplvm,
-  title   = {Variational Learning of Gaussian Process Latent Variable Models
-             through Stochastic Gradient Annealed Importance Sampling},
-  author  = {Xu, Jian and Du, Shian and Yang, Junmei and Ma, Qianli and
-             Zeng, Delu and Paisley, John},
-  journal = {arXiv preprint arXiv:2408.06710},
-  year    = {2024}
+@inproceedings{xu2025variational,
+  title={Variational Learning of Gaussian Process Latent Variable Models through Stochastic Gradient Annealed Importance Sampling},
+  author={Xu, Jian and Du, Shian and Yang, Junmei and Ma, Qianli and Zeng, Delu and Paisley, John},
+  booktitle={Conference on Uncertainty in Artificial Intelligence},
+  pages={4663--4680},
+  year={2025},
+  organization={PMLR}
 }
 ```
 
