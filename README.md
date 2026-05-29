@@ -2,7 +2,7 @@
 
 A clean PyTorch reproduction of **VAIS-GPLVM** — *Variational Learning of Gaussian
 Process Latent Variable Models through Stochastic Gradient Annealed Importance
-Sampling* (Xu et al., [arXiv:2408.06710](https://arxiv.org/abs/2408.06710)).
+Sampling* (Xu et al., **UAI 2025**, PMLR; [arXiv:2408.06710](https://arxiv.org/abs/2408.06710)).
 
 VAIS-GPLVM replaces the importance-sampling proposal of a Bayesian GPLVM with an
 **Annealed Importance Sampling (AIS)** chain built from *time-inhomogeneous
